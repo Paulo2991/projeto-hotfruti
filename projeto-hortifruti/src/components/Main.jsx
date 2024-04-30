@@ -7,7 +7,7 @@ import manga from "../assets/manga.png";
 import limao from "../assets/limao.jpg";
 import beterraba from "../assets/beterraba.jpg";
 import tomate from "../assets/tomate.jpg";
-import carrinho from "../assets/carrinho.jpg";
+import carrinho from "../assets/carrinho.png";
 import { useState } from "react";
 
 function Main(){
@@ -27,7 +27,7 @@ function Main(){
         <S.Container>
           <S.Produtos>
             <h1>
-              Hortifruty Vai Na Web <span>VnW</span>
+              Hortifruti <span>VnW</span>
             </h1>
             <h2>Nossos Produtos</h2>
             <S.BoxItem>
